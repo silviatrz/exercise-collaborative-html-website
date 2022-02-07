@@ -1,3 +1,47 @@
-body{
+body {
     background: #BDBDBD;
+}
+.img-walter-heading {
+    height: 350px;
+    background-image: url("../img/1.jpg");
+    width: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-keyboard {
+    background-image: url("../img/2.jpg");
+    height: 300px;
+    width: 300px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tagline-bg {
+    background-image: url("../img/bg.jpg");
+    width: 100%;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+  }
+
+  .img-portfolio {
+    background-image: url("../img/big-project-image.png");
+    height: 250px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.img-logo {
+    background-image: url("../img/breathe-code-logo-white.png");
+    height: 50px;
+    width: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;    
 }
