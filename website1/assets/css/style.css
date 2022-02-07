@@ -2,16 +2,18 @@ body {
     background: #BDBDBD;
 }
 .img-walter-heading {
-    height: 280px;
-    background-image: url("https://comicstores.es/imagenes/4260250/426025007903.JPG");
-    width: 280px;
+    height: 350px;
+    background-image: url("../img/1.jpg");
+    width: 350px;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .img-keyboard {
-    background-image: url(../img/2.jpg);
-    height: 280px;
-    width: 280px;
+    background-image: url("../img/2.jpg");
+    height: 300px;
+    width: 300px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,3 +27,21 @@ body {
     background-size: cover;
     height: 500px;
   }
+
+  .img-portfolio {
+    background-image: url("../img/big-project-image.png");
+    height: 250px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.img-logo {
+    background-image: url("../img/breathe-code-logo-white.png");
+    height: 50px;
+    width: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:auto;    
+}
